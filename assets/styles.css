@@ -1,0 +1,5 @@
+:root { --brand:#0d6efd; }
+.hero-img { height: 32rem; object-fit: cover; }
+.btn-primary { background-color: var(--brand); border-color: var(--brand); }
+.btn-outline-primary { color: var(--brand); border-color: var(--brand); }
+.btn-outline-primary:hover { background: var(--brand); color:#fff; }
